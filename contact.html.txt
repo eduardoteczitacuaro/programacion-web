@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Contacto</title>
+</head>
+<body>
+    <h1>Contacto</h1>
+    <p>Puede comunicarse con nosotros a través de los siguientes medios:</p>
+    <ul>
+        <li>Teléfono: 123-456-7890</li>
+        <li>Email: info@example.com</li>
+        <li>Dirección: 123 Calle Principal, Ciudad</li>
+    </ul>
+</body>
+</html>
